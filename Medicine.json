@@ -3,15 +3,15 @@
       "name": "Disha",
       "ageGroup": "Adults",
       "saltComposition": "Paracetamol 500mg",
-      "sideEffects": "Nausea, Allergic reactions",
-      "usage": "Pain relief, fever"
+      "usage": "Pain relief, fever",
+      "sideEffects": "Nausea, Allergic reactions"
     },
     {
       "name": "Saumya",
       "ageGroup": "Adults",
       "saltComposition": "Ibuprofen 200mg",
-      "sideEffects": "Stomach pain, dizziness",
-      "usage": "Inflammation, pain relief"
+      "usage": "Inflammation, pain relief",
+      "sideEffects": "Stomach pain, dizziness"
     }
   ]
   
